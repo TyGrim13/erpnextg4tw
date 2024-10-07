@@ -1,20 +1,20 @@
-app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = """ERP made simple"""
+app_name = "Go 4 The Win"
+app_title = "G4TWERP"
+app_publisher = "Developed by Ty using frappe framework and erpNext"
+app_description = """ERP 4 Winners"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "info@erpnext.com"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
-app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
+app_logo_url = "/assets/erpnext/images/4 logo 2.0 custom products circle cut.png"
 app_home = "/app/home"
 
 add_to_apps_screen = [
 	{
-		"name": "erpnext",
-		"logo": "/assets/erpnext/images/erpnext-logo-blue.png",
-		"title": "ERPNext",
+		"name": "Go 4 The Win",
+		"logo": "/assets/erpnext/images/4 logo 2.0 custom products circle cut.png",
+		"title": "G4TWERP",
 		"route": "/app/home",
 		"has_permission": "erpnext.check_app_permission",
 	}
